@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 rrrrdsadasdaddaaasdasdaddjotain muutostaaa yeaa
+=======
+
+ yeaa
+>>>>>>> 0b57fdc4dcfdb5df7dbd03548cc956a66942e968
 
